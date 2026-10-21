@@ -287,22 +287,7 @@ pix-ibge-data-pipeline/
 
 ## Documentation
 
-- [Architecture](docs/architecture.md)
-- [Data Model](docs/data_model.md)
-- [Data Dictionary](docs/data_dictionary.md)
-- [Pipeline Execution](docs/pipeline_execution.md)
-- [Data Quality](docs/data_quality.md)
-- [Power BI](docs/power_bi.md)
-- [Security](docs/security.md)
-- [Design Decisions](docs/design_decisions.md)
-- [GitHub Publishing Guide](docs/github_publish.md)
 
-## Suggested Dashboard Pages
-
-```text
-01 — Economic Overview
-In progress
-```
 
 ## Disclaimer
 
