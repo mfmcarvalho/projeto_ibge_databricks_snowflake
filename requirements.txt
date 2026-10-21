@@ -1,0 +1,4 @@
+requests>=2.31,<3
+pandas>=2.0,<3
+snowflake-connector-python[pandas]>=4.8,<5
+cryptography>=42,<49

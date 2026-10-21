@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets / credentials
+.env
+.env.*
+*.p8
+*.pem
+*.key
+*.pfx
+*.p12
+*credentials*.json
+*service-account*.json
+*service_account*.json
+
+# Databricks / local tooling
+.databricks/
+.vscode/
+.idea/
+
+# Power BI local artifacts
+*.pbix
+*.pbit
+
+# Logs / temporary files
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Local data exports
+data/
+*.parquet
+*.csv
+*.xlsx
