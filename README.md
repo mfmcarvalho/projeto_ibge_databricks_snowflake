@@ -301,8 +301,7 @@ pix-ibge-data-pipeline/
 
 ```text
 01 — Economic Overview
-02 — PIX Analysis
-03 — PIX × GDP
+In progress
 ```
 
 ## Disclaimer
